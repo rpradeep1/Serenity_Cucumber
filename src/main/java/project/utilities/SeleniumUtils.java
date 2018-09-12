@@ -1,4 +1,4 @@
-package project.utilities;
+	package project.utilities;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -85,13 +85,15 @@ public class SeleniumUtils extends PageObject {
 		}
 		getDriver().switchTo().window(newWindow);
 	}
-public void moveToElement(String xpath){
+	
+	public void moveToElement(String xpath){
 		
 		WebElement element = getDriver().findElement(By.xpath(xpath));
 		Actions builder = new Actions(getDriver());
         builder.moveToElement(element).build().perform();
       
 	}
+	
 	public WebElement waitUnitillGivenElementPresent(String Xpath, int Time) {
 		
 		WebElement element = null;

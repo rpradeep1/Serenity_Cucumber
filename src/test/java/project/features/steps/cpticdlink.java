@@ -77,5 +77,26 @@ public class cpticdlink {
 	}
 
 
+	@Given("^User Logs with \"([^\"]*)\" into JBPM Application$")
+	public void user_Logs_with_into_JBPM_Application(String arg1) throws Throwable {
+		
+		cpticdlinkdefs.loginCPTICDLink(arg1);
+	 
+	}
+
+	@When("^clicks reference data link under Mytasks section$")
+	public void clicks_reference_data_link_under_Mytasks_section() throws Throwable {
+		
+		cpticdlinkdefs.ClickCPTICDLink();
+		
+	 
+	}
+
+	@Then("^My Tasks Page should be displayed$")
+	public void my_Tasks_Page_should_be_displayed() throws Throwable {
+		
+		cpticdlinkdefs.CPTICDLINKMYTasks();
+	
+	}
 
 }

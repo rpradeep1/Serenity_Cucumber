@@ -13,7 +13,7 @@ import project.utilities.ExcelUtils;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions( plugin = {"pretty", "html:target/cucumber-html-report"},
 features="Features",
-tags = {"@Regression"})
+tags = {"@Test1"})
 
 public class TestRunner {
 	

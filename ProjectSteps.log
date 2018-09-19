@@ -1,8 +1,10 @@
-2018-09-12 02:23:53 INFO  cpticdlinkdefs:27 - JBPM Home page opened successfully
-2018-09-12 02:23:55 INFO  LoginPage:115 - User Name entered successfully :iht_ittest05
-2018-09-12 02:23:56 INFO  LoginPage:62 - Password entered successfully
-2018-09-12 02:23:57 INFO  LoginPage:64 - Login Button clicked successfully.
-2018-09-12 02:24:06 INFO  cpticdlinkdefs:27 - JBPM Home page opened successfully
-2018-09-12 02:24:07 INFO  LoginPage:115 - User Name entered successfully :iht_ittest05
-2018-09-12 02:24:08 INFO  LoginPage:62 - Password entered successfully
-2018-09-12 02:24:09 INFO  LoginPage:64 - Login Button clicked successfully.
+2018-09-18 09:50:10 INFO  cpticdlinkdefs:30 - JBPM Home page opened successfully
+2018-09-18 09:50:12 INFO  LoginPage:115 - User Name entered successfully :iht_ittest01
+2018-09-18 09:50:13 INFO  LoginPage:62 - Password entered successfully
+2018-09-18 09:50:14 INFO  LoginPage:64 - Login Button clicked successfully.
+2018-09-18 09:50:15 INFO  cpticdlinkdefs:39 - CPT ICD LINK is clicked successfully
+2018-09-18 09:50:28 INFO  cpticdlinkdefs:54 - CPT ICD LINK My Tasks Page is displayed successfully
+2018-09-18 09:50:29 INFO  cpticdlinkdefs:60 - Group Tasks Button is clicked successfully
+2018-09-18 09:50:31 INFO  cpticdlinkdefs:65 - LCD Article List Box is clicked successfully
+2018-09-18 09:50:33 INFO  cpticdlinkdefs:71 - LCD Check Box is clicked successfully
+2018-09-18 09:50:35 INFO  cpticdlinkdefs:77 - Article Check Box is clicked successfully

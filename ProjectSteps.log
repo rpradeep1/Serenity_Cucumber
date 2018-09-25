@@ -1,10 +1,13 @@
-2018-09-18 09:50:10 INFO  cpticdlinkdefs:30 - JBPM Home page opened successfully
-2018-09-18 09:50:12 INFO  LoginPage:115 - User Name entered successfully :iht_ittest01
-2018-09-18 09:50:13 INFO  LoginPage:62 - Password entered successfully
-2018-09-18 09:50:14 INFO  LoginPage:64 - Login Button clicked successfully.
-2018-09-18 09:50:15 INFO  cpticdlinkdefs:39 - CPT ICD LINK is clicked successfully
-2018-09-18 09:50:28 INFO  cpticdlinkdefs:54 - CPT ICD LINK My Tasks Page is displayed successfully
-2018-09-18 09:50:29 INFO  cpticdlinkdefs:60 - Group Tasks Button is clicked successfully
-2018-09-18 09:50:31 INFO  cpticdlinkdefs:65 - LCD Article List Box is clicked successfully
-2018-09-18 09:50:33 INFO  cpticdlinkdefs:71 - LCD Check Box is clicked successfully
-2018-09-18 09:50:35 INFO  cpticdlinkdefs:77 - Article Check Box is clicked successfully
+2018-09-20 05:49:18 INFO  cpticdlinkdefs:30 - JBPM Home page opened successfully
+2018-09-20 05:49:19 INFO  LoginPage:115 - User Name entered successfully :iht_ittest01
+2018-09-20 05:49:20 INFO  LoginPage:62 - Password entered successfully
+2018-09-20 05:49:21 INFO  LoginPage:64 - Login Button clicked successfully.
+2018-09-20 05:49:23 INFO  cpticdlinkdefs:39 - CPT ICD LINK is clicked successfully
+2018-09-20 05:49:35 INFO  cpticdlinkdefs:54 - CPT ICD LINK My Tasks Page is displayed successfully
+2018-09-20 05:49:37 INFO  cpticdlinkdefs:60 - Group Tasks Button is clicked successfully
+2018-09-20 05:49:39 INFO  cpticdlinkdefs:65 - LCD Article List Box is clicked successfully
+2018-09-20 05:49:41 INFO  cpticdlinkdefs:71 - LCD Check Box is clicked successfully
+2018-09-20 05:49:43 INFO  cpticdlinkdefs:77 - Article Check Box is clicked successfully
+2018-09-20 05:49:46 INFO  cpticdlinkdefs:88 - LCD Article List Box is clicked successfully
+2018-09-20 05:49:48 INFO  cpticdlinkdefs:94 - LCD Check Box is clicked successfully
+2018-09-20 05:49:49 INFO  cpticdlinkdefs:107 - LCD Cnt --> 29
